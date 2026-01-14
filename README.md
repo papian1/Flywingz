@@ -1,0 +1,2 @@
+# Flywingz
+Tempat repository pertamaku
